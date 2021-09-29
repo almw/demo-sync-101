@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\Dancun Kuffar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/netcorerest/netcorerest.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\Documents\\Project\\Codespaces\\netcorerest\\netcorerest.csproj",
       "projectName": "netcorerest",
-      "projectPath": "/workspaces/netcorerest/netcorerest.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/workspaces/netcorerest/obj/",
+      "projectPath": "C:\\Users\\Public\\Documents\\Project\\Codespaces\\netcorerest\\netcorerest.csproj",
+      "packagesPath": "C:\\Users\\Dancun Kuffar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Public\\Documents\\Project\\Codespaces\\netcorerest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Dancun Kuffar\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,6 +42,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.413/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

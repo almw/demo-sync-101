@@ -20,14 +20,12 @@
 /workspaces/netcorerest/obj/Debug/netcoreapp3.1/netcorerest.genruntimeconfig.cache
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Public\Documents\Project\Codespaces\netcorerest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\bin\Debug\netcoreapp3.1\netcorerest.exe
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\bin\Debug\netcoreapp3.1\netcorerest.deps.json
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\bin\Debug\netcoreapp3.1\netcorerest.runtimeconfig.json
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\bin\Debug\netcoreapp3.1\netcorerest.runtimeconfig.dev.json
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\bin\Debug\netcoreapp3.1\netcorerest.dll
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\bin\Debug\netcoreapp3.1\netcorerest.pdb
-C:\Users\Public\Documents\Project\Codespaces\netcorerest\obj\Debug\netcoreapp3.1\netcorerest.csprojAssemblyReference.cache
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\obj\Debug\netcoreapp3.1\netcorerest.AssemblyInfoInputs.cache
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\obj\Debug\netcoreapp3.1\netcorerest.AssemblyInfo.cs
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\obj\Debug\netcoreapp3.1\netcorerest.csproj.CoreCompileInputs.cache
@@ -38,3 +36,6 @@ C:\Users\Public\Documents\Project\Codespaces\netcorerest\obj\Debug\netcoreapp3.1
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\obj\Debug\netcoreapp3.1\netcorerest.dll
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\obj\Debug\netcoreapp3.1\netcorerest.pdb
 C:\Users\Public\Documents\Project\Codespaces\netcorerest\obj\Debug\netcoreapp3.1\netcorerest.genruntimeconfig.cache
+C:\Users\Public\Documents\Project\Codespaces\netcorerest\obj\Debug\netcoreapp3.1\netcorerest.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\Project\Codespaces\netcorerest\obj\Debug\netcoreapp3.1\netcorerest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\Project\Codespaces\netcorerest\obj\Debug\netcoreapp3.1\scopedcss\bundle\netcorerest.styles.css

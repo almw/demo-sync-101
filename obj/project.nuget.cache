@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqmPXl1CLp08o3ONF6M9SyY2NsZ1HVkdXg3rzz1Lz+moTPKM2+kxqZGa049hwnps2EQw8PX3ggLrW7lKlgEqWQ==",
+  "dgSpecHash": "Mv1D9cArzK49CL8kJ6tpRl+rFK6QC2v57GGk1wUI4s3fB/pVQaawsWm0t10awjWfXGM3cikysGIAcp5lGabHWw==",
   "success": true,
-  "projectFilePath": "/workspaces/netcorerest/netcorerest.csproj",
+  "projectFilePath": "C:\\Users\\Public\\Documents\\Project\\Codespaces\\netcorerest\\netcorerest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
