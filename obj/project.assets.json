@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/netcorerest/netcorerest.csproj",
+      "projectUniqueName": "/workspaces/API-WeatherForecast/netcorerest.csproj",
       "projectName": "netcorerest",
-      "projectPath": "/workspaces/netcorerest/netcorerest.csproj",
+      "projectPath": "/workspaces/API-WeatherForecast/netcorerest.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/workspaces/netcorerest/obj/",
+      "outputPath": "/workspaces/API-WeatherForecast/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"

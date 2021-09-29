@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqmPXl1CLp08o3ONF6M9SyY2NsZ1HVkdXg3rzz1Lz+moTPKM2+kxqZGa049hwnps2EQw8PX3ggLrW7lKlgEqWQ==",
+  "dgSpecHash": "uqQfJLmUm30dJzQXZVeXS6sJLbo/ZrBkfEZ7nFVes3dfkhICocNkHIR2mTsKtLh8vHHDBX1utGHnmmbHq8dxAQ==",
   "success": true,
-  "projectFilePath": "/workspaces/netcorerest/netcorerest.csproj",
+  "projectFilePath": "/workspaces/API-WeatherForecast/netcorerest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
