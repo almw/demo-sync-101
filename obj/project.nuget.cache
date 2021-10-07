@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iCWw0L0PMo+XfFS4X1WNgXupAsRszwVsYW+tjSHs1C2Tc4t31m7zfPGV5+TjyXbYC0mGRFn961aBkGCxOdvkVw==",
+  "dgSpecHash": "uqQfJLmUm30dJzQXZVeXS6sJLbo/ZrBkfEZ7nFVes3dfkhICocNkHIR2mTsKtLh8vHHDBX1utGHnmmbHq8dxAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dancun Kuffar\\Documents\\Projects\\API-WeatherForecast\\netcorerest.csproj",
+  "projectFilePath": "/workspaces/API-WeatherForecast/netcorerest.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Dancun Kuffar\\Documents\\Projects\\API-WeatherForecast\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

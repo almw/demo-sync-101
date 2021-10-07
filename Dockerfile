@@ -29,3 +29,4 @@ ENTRYPOINT ["dotnet", "netcorerest.dll"]
 
 # http://localhost:5000/WeatherForecast
 # http://127.0.0.1:5000/WeatherForecast
+# /workspaces/API-WeatherForecast/Dockerfile
