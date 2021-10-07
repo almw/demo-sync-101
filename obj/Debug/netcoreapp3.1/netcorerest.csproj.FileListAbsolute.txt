@@ -82,3 +82,24 @@ C:/Users/Public/Documents/Project/Codespaces/netcorerest/obj/Debug/netcoreapp3.1
 /workspaces/API-WeatherForecast/obj/Debug/netcoreapp3.1/netcorerest.pdb
 /workspaces/API-WeatherForecast/obj/Debug/netcoreapp3.1/netcorerest.genruntimeconfig.cache
 >>>>>>> dc2a0cc3f9f1eadfe1f88b5873bcb3962f6329fc
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\bin\Debug\netcoreapp3.1\netcorerest.exe
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\bin\Debug\netcoreapp3.1\netcorerest.deps.json
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\bin\Debug\netcoreapp3.1\netcorerest.runtimeconfig.json
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\bin\Debug\netcoreapp3.1\netcorerest.runtimeconfig.dev.json
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\bin\Debug\netcoreapp3.1\netcorerest.dll
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\bin\Debug\netcoreapp3.1\netcorerest.pdb
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\netcorerest.csproj.AssemblyReference.cache
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\netcorerest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\netcorerest.AssemblyInfoInputs.cache
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\netcorerest.AssemblyInfo.cs
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\netcorerest.csproj.CoreCompileInputs.cache
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\netcorerest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\staticwebassets\netcorerest.StaticWebAssets.Manifest.cache
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\staticwebassets\netcorerest.StaticWebAssets.xml
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\scopedcss\bundle\netcorerest.styles.css
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\netcorerest.RazorTargetAssemblyInfo.cache
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\netcorerest.dll
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\netcorerest.pdb
+C:\Users\Dancun Kuffar\Documents\Projects\API-WeatherForecast\obj\Debug\netcoreapp3.1\netcorerest.genruntimeconfig.cache

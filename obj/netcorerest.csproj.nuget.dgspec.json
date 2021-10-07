@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\Public\\Documents\\Project\\Codespaces\\netcorerest\\netcorerest.csproj": {}
+    "C:\\Users\\Dancun Kuffar\\Documents\\Projects\\API-WeatherForecast\\netcorerest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Public\\Documents\\Project\\Codespaces\\netcorerest\\netcorerest.csproj": {
+    "C:\\Users\\Dancun Kuffar\\Documents\\Projects\\API-WeatherForecast\\netcorerest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public\\Documents\\Project\\Codespaces\\netcorerest\\netcorerest.csproj",
+        "projectUniqueName": "C:\\Users\\Dancun Kuffar\\Documents\\Projects\\API-WeatherForecast\\netcorerest.csproj",
         "projectName": "netcorerest",
-        "projectPath": "C:\\Users\\Public\\Documents\\Project\\Codespaces\\netcorerest\\netcorerest.csproj",
+        "projectPath": "C:\\Users\\Dancun Kuffar\\Documents\\Projects\\API-WeatherForecast\\netcorerest.csproj",
         "packagesPath": "C:\\Users\\Dancun Kuffar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public\\Documents\\Project\\Codespaces\\netcorerest\\obj\\",
-=======
-    "/workspaces/API-WeatherForecast/netcorerest.csproj": {}
-  },
-  "projects": {
-    "/workspaces/API-WeatherForecast/netcorerest.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/workspaces/API-WeatherForecast/netcorerest.csproj",
-        "projectName": "netcorerest",
-        "projectPath": "/workspaces/API-WeatherForecast/netcorerest.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/workspaces/API-WeatherForecast/obj/",
->>>>>>> dc2a0cc3f9f1eadfe1f88b5873bcb3962f6329fc
+        "outputPath": "C:\\Users\\Dancun Kuffar\\Documents\\Projects\\API-WeatherForecast\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dancun Kuffar\\AppData\\Roaming\\NuGet\\NuGet.Config"
