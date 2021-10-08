@@ -19,4 +19,4 @@ jobs:
         source_branch: "main"
         destination_repo: "git@github.techtrend.us:TechTrend/DemoSync_forest-service_API-WeatherForecast-.git"
         destination_branch: "main"
-        github_token: ${{ secrets.PAT }}
+        github_token: ${{ SSH_PRIVATE_KEY }}
