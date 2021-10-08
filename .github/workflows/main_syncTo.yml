@@ -18,5 +18,5 @@ jobs:
         source_repo: "https://github.com/forest-service/API-WeatherForecast.git"
         source_branch: "main"
         destination_branch: "https://github.techtrend.us/TechTrend/DemoSync_forest-service_API-WeatherForecast-.git"
-        github_token: ${{ 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.PAT }}
+        github_token: ${{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}}
 
