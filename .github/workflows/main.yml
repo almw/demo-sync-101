@@ -1,0 +1,22 @@
+# File: .github/workflows/repo-sync.yml
+
+on:
+  schedule:
+  - cron:  "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  repo-sync:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+    - name: repo-sync
+      uses: repo-sync/github-sync@v2
+      with:
+        source_repo: "https://github.com/forest-service/API-WeatherForecast.git"
+        source_branch: "main"
+        destination_branch: "https://github.techtrend.us/TechTrend/DemoSync_forest-service_API-WeatherForecast-.git"
+        github_token: ${{ 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.PAT }}
+
