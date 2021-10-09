@@ -1,17 +1,22 @@
-# .github/workflows/git-sync.yml
+name: Repo Sync repo-sync.yml
 
-on: push
+on:
+  schedule: 
+  - cron: "*/5 * * * *" # every 15 minutes. set to whatever interval you like
+
 jobs:
-  git-sync:
+  repo-sync:
+    name: Repo Sync
     runs-on: ubuntu-latest
     steps:
-      - name: git-sync
-        uses: wei/git-sync@v3
-        with:
-          source_repo: "git@github.com:forest-service/API-WeatherForecast.git"
-          source_branch: "main"
-          # destination_repo: "git@github.techtrend.us:dkuffar/-DemoSync_forest-service_API-WeatherForecast.git"
-          destination_repo: "git@github.com:almw/wapi-demo.git"
-          destination_branch: "main"
-          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} # optional
-          # github_token: ${{ secrets.PAT }}
+    - uses: actions/checkout@v2
+    - uses: repo-sync/github-sync@v2
+      name: Sync repo to branch
+      with:
+        # source_repo: ${{ secrets.SOURCE_REPO }}
+        source_repo: "git@github.com:forest-service/API-WeatherForecast.git"
+        source_branch: main
+        # destination_repo: ${{ secrets.DESTINATION_REPO }}destination_repo:
+        destination_repo: "git@github.com:almw/wapi-demo2.git"
+        destination_branch: main
+        github_token: ${{ secrets.PATWAPISYNC }}
