@@ -8,7 +8,8 @@ jobs:
       - name: git-sync
         uses: wei/git-sync@v3
         with:
-          source_repo: "git@github.com:forest-service/API-WeatherForecast.git"
+          source_repo: "forest-service/API-WeatherForecast.git"
+          #source_repo: "git@github.com:forest-service/API-WeatherForecast.git"
           source_branch: "main"
           # destination_repo: "git@github.techtrend.us:dkuffar/-DemoSync_forest-service_API-WeatherForecast.git"
           destination_repo: "git@github.com:almw/wapi-demo2.git"
