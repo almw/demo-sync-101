@@ -14,5 +14,3 @@ jobs:
           destination_repo: "git@github.com:almw/wapi-demo2.git"
           destination_branch: "main"
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} # optional
-          # github_token: ${{ secrets.PAT }}
-          github_token: ${{ secrets.PATWAPISYNC }}
